@@ -1,1 +1,1 @@
-Script to fist MSO 203 notes.
+Script to fix MSO 203 notes.
